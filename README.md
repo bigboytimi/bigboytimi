@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bigboytimi
+- 👋 Hi, I’m timi, olowookere
 - 👀 I’m interested in Blockchain and Web 3
 - 🌱 I’m currently learning CSS and Javascript
 - 💞️ I’m looking to collaborate on any projects 
