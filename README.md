@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bigboytimi
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Blockchain and Web 3
 - 🌱 I’m currently learning CSS and Javascript
 - 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me 
