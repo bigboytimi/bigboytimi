@@ -16,7 +16,7 @@
 ---
 ✨  I'm a noob Backend engineer passionate about software development, design, architecture and quality. I am interested in building great and amazing products that solves complex human problems.
 
-I am currently learning Object-Oriented Programming and System Design. I'm a [GitHub Star](https://stars.github.com/profiles/lauragift21/), Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me making really cool playlists on Spotify(also my dream company) or catching on cool Netflix(also my dream company) series.
+I am currently learning Object-Oriented Programming and System Design. When I'm not coding, you can find me making really cool playlists on Spotify(also my dream company) or catching on cool Netflix(also my dream company) series.
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
