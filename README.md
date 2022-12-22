@@ -25,7 +25,7 @@ I am currently learning Object-Oriented Programming and System Design. When I'm 
 
 - 💬 Ask me about: Javascript, Java, Python and APIs.
 
-- 📫 How to reach me: [@bigboytimi_](https://twitter.com/bigboytimi)
+- 📫 How to reach me: [@bigboytimi](https://twitter.com/bigboytimi)
 
 - ⚡  Fun fact: My long-term goal is to run a Tech company that helps a lot of Businesses thrive. Maybe fintech, maybe not.
 
@@ -37,15 +37,12 @@ I am currently learning Object-Oriented Programming and System Design. When I'm 
 <h2>Connect with me </h3>
     <p>
         <a href="https://www.linkedin.com/in/olowookere-timilehin-9046aa171/"><img src="https://img.shields.io/badge/-Timi%20Olowookere%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/olowookere-timilehin-9046aa172" alt="LinkedIn Badge"></a>
-         <a href="https://twitter.com/@lauragift_
+         <a href="https://twitter.com/@bigboytimi
 /"><img src="https://img.shields.io/badge/-Timi Olowookere-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Timi Olowookere-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
    </p>
 
- <!-- Conecct section: END -->
-
-  <!-- GitHub section -->
-
+ 
  
 <!-- THE END -->
 
