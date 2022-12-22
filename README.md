@@ -3,7 +3,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigboytimi&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <p align="center">
@@ -41,9 +41,6 @@ I am currently learning Object-Oriented Programming and System Design. When I'm 
 /"><img src="https://img.shields.io/badge/-Timi Olowookere-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Timi Olowookere-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
    </p>
-
- 
- 
 <!-- THE END -->
 
 
