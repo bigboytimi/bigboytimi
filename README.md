@@ -16,7 +16,7 @@
 ---
 ✨  I'm a product-driven Backend engineer passionate about software development, design, architecture and quality. I am interested in building great and amazing products that solves complex human problems.
 
-I am currently learning Object-Oriented Programming and System Design. When I'm not coding, you can find me making really cool playlists on Spotify(my dream company) or catching up on cool Netflix(also my dream company) series.
+I am currently learning Object-Oriented Programming and System Design. When I'm not coding, you can find me making really cool playlists on Spotify or catching up on interesting Netflix series.
 
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
