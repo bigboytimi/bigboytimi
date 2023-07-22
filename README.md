@@ -29,7 +29,7 @@ I am currently learning Object-Oriented Programming and System Design. When I'm 
 
 - 📝 I do some technical & personal writing on [medium](https://medium.com/@olutimiolowookere)
 
-- ⚡  Fun fact: My long-term goal is to run a Tech company that helps a lot of Businesses thrive. Maybe fintech, maybe not.
+- ⚡  Fun fact: My long-term goal is to run a Tech company that helps a human beings thrive.
 
 <!-- About section: END -->
 
