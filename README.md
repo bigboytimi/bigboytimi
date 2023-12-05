@@ -14,22 +14,21 @@
  <!-- About section -->
 
 ---
-✨  I'm a product-driven Backend engineer passionate about software development, design, architecture and quality. I am interested in building great and amazing products that solves complex human problems.
+🤔 Problem-solver by day, playlist virtuoso by night. Meet Big Tech Timmy, the Backend Bard with a mission to elevate the human experience through tech.
 
-I am currently learning Object-Oriented Programming and System Design. When I'm not coding, you can find me making really cool playlists on Spotify or catching up on Founding Stories on Netflix.
+🛠️ Skills: JavaScript, Java, Python, APIs (and a knack for crafting Spotify playlists that could rival Spotify Wrapped).
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
+🧠 Passion: Building innovative products that seamlessly merge functionality and user delight. I'm not just here to code; I'm here to create experiences that make people say, "Wow, I didn't know tech could do that!"
 
-- 😄 My Pronouns: He/Him
+🧬 DNA: Part tech wizard, part relentless optimist. I believe in the power of technology to not only solve problems but also unlock human potential. Think self-cleaning coffee mugs, AI therapists who truly listen, and robots that tackle those laundry piles for you. (Hey, a techie can dream, right?)
 
-- 💬 Ask me about: Javascript, Java, Python and APIs.
+⚡ Fun Fact: I'm a Founding Stories enthusiast, constantly absorbing the journeys of those who dared to innovate. Because sometimes the best way to create the future is to learn from the past.
 
-- 📫 How to reach me: [@bigboytimi](https://twitter.com/bigboytimi)
+🚀 Goal: To lead a tech company that redefines what it means to be human-centered. A place where groundbreaking solutions and infectious passion unite to shape a better tomorrow.
 
-- 📝 I do some technical & personal writing on [medium](https://medium.com/@olutimiolowookere)
+🤝 Connect with me: Let's exchange ideas, unlock possibilities, and build something extraordinary together. Catch me on @bigboytimi or find my musings on Medium.
 
-- ⚡  Fun fact: My long-term goal is to run a Tech company that helps human beings thrive.
+I'm ready to code the future. Are you?
 
 <!-- About section: END -->
 
