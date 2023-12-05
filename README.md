@@ -14,7 +14,7 @@
  <!-- About section -->
 
 ---
-🤔 Problem-solver by day, playlist virtuoso by night. I'm a code monkey with a mission to elevate the human experience through technology.
+🤔 Problem-solver by day, playlist virtuoso by night. I'm a Software Engineer with a mission to elevate the human experience through data and technology.
 
 🛠️ Skills: Product & Data Engineering. 
 
@@ -22,7 +22,7 @@
 
 🧠 Passion: Building innovative products that seamlessly merge functionality and user delight. I'm not just here to code; I'm here to create experiences that make people say, "Wow, I didn't know tech could do that!"
 
-🧬 DNA: Part tech wizard, part relentless optimist. I believe in the power of technology to not only solve problems but also unlock human potential. Think self-cleaning coffee mugs, AI therapists who truly listen, and robots that tackle those laundry piles for you. (Hey, a techie can dream, right?)
+🧬 DNA: Part code monkey, part relentless optimist. I believe in the power of technology to not only solve problems but also unlock human potential. Think self-cleaning coffee mugs, AI therapists who truly listen, and robots that tackle those laundry piles for you. (Hey, a techie can dream, right?)
 
 ⚡ Fun Fact: I'm a Founding Stories enthusiast, constantly absorbing the journeys of those who dared to innovate. Because sometimes the best way to create the future is to learn from the past.
 
