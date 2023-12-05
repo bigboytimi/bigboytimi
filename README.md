@@ -14,7 +14,7 @@
  <!-- About section -->
 
 ---
-🤔 Problem-solver by day, playlist virtuoso by night. Meet Big Tech Timmy, the Backend Bard with a mission to elevate the human experience through tech.
+🤔 Problem-solver by day, playlist virtuoso by night. I'm a code monkey with a mission to elevate the human experience through tech.
 
 🛠️ Skills: JavaScript, Java, Python, APIs (and a knack for crafting Spotify playlists that could rival Spotify Wrapped).
 
