@@ -14,7 +14,7 @@
  <!-- About section -->
 
 ---
-🤔 Problem-solver by day, playlist virtuoso by night. I'm a code monkey with a mission to elevate the human experience through tech.
+🤔 Problem-solver by day, playlist virtuoso by night. I'm a code monkey with a mission to elevate the human experience through technology.
 
 🛠️ Skills: Product & Data Engineering. 
 
