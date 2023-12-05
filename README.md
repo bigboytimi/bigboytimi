@@ -16,7 +16,9 @@
 ---
 🤔 Problem-solver by day, playlist virtuoso by night. I'm a code monkey with a mission to elevate the human experience through tech.
 
-🛠️ Skills: JavaScript, Java, Python, APIs (and a knack for crafting Spotify playlists that could rival Spotify Wrapped).
+🛠️ Skills: Product & Data Engineering. 
+
+💪 Proficiency: Java, Python, SQL, Apache Spark, Kafka, AWS.
 
 🧠 Passion: Building innovative products that seamlessly merge functionality and user delight. I'm not just here to code; I'm here to create experiences that make people say, "Wow, I didn't know tech could do that!"
 
