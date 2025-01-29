@@ -3,12 +3,12 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigboytimi&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=timiolowookere&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <p align="center">
   <a href="#">Website</a> •
-  <a href="https://twitter.com/bigboytimi">Twitter</a>
+  <a href="https://twitter.com/timi0lowookere">Twitter</a>
 </p>
 
  <!-- About section -->
