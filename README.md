@@ -1,52 +1,52 @@
-<!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Timi Olowookere</h3>
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=timiolowookere&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
-<p align="center">
-  <a href="#">Website</a> •
-  <a href="https://twitter.com/timi0lowookere">Twitter</a>
-</p>
-
- <!-- About section -->
+# Hi there! I'm Timi Olowookere 👋  
+**Experienced Software Engineer | Fintech & Banking Innovator | Backend Specialist**
 
 ---
-🤔 Problem-solver by day, playlist virtuoso by night. I'm a Software Engineer with a mission to elevate the human experience through data and technology.
 
-🛠️ Skills: Product & Data Engineering. 
+### About Me  
+I’m a **Software Engineer** with extensive experience in **fintech and banking**, where I’ve built and optimized solutions that enhance business processes, improve system efficiency, and drive seamless digital experiences. My career has taken me through some of the most challenging and rewarding projects in the financial sector, including integrating payment systems, optimizing KYC solutions, and building scalable backend architectures.  
 
-💪 Proficiency: Java, Python, SQL, Apache Spark, Kafka, AWS.
+- 🔹 **3+ Years of Experience** in Software Development  
+- 🔹 **Specialized in Backend Engineering** with a focus on **Java**, **Golang**, and **big data processing**.  
+- 🔹 **Proven Track Record** in building and integrating payment systems, managing asynchronous communication using **Kafka**, and ensuring high availability and performance.  
+- 🔹 **Blockchain Enthusiast**, working on blockchain solutions to redefine secure and transparent financial systems.  
 
-🧠 Passion: Building innovative products that seamlessly merge functionality and user delight. I'm not just here to code; I'm here to create experiences that make people say, "Wow, I didn't know tech could do that!"
+---
 
-🧬 DNA: Part code monkey, part relentless optimist. I believe in the power of technology to not only solve problems but also unlock human potential. Think self-cleaning coffee mugs, AI therapists who truly listen, and robots that tackle those laundry piles for you. (Hey, a techie can dream, right?)
+### What I Do  
+- **Fintech Solutions:** Built and integrated payment systems for seamless transaction processing at scale.  
+- **KYC & Authentication Systems:** Implemented robust authentication flows using **Keycloak** and optimized KYC processes.  
+- **Big Data Processing:** Using **Apache Beam** for batch and stream processing to power data-driven decision-making.  
+- **Distributed Systems Design:** Building middleware solutions for inter-microservice communication.  
 
-⚡ Fun Fact: I'm a Founding Stories enthusiast, constantly absorbing the journeys of those who dared to innovate. Because sometimes the best way to create the future is to learn from the past.
+---
 
-🚀 Goal: To lead a tech company that redefines what it means to be human-centered. A place where groundbreaking solutions and infectious passion unite to shape a better tomorrow.
+### Core Technologies  
+- **Languages:** Java, Golang, Python, SQL  
+- **Frameworks:** Spring Boot, Micronaut  
+- **Messaging & Data:** Apache Kafka, Apache Spark, Redis, RabbitMQ  
+- **Cloud:** AWS (EC2, S3, RDS, Lambda)  
+- **Security:** Keycloak, OAuth2, JWT  
 
-🤝 Connect with me: Let's exchange ideas, unlock possibilities, and build something extraordinary together. Catch me on @bigboytimi or find my musings on Medium.
+---
 
-I'm ready to code the future. Are you?
+### My Goal  
+To continue building innovative backend systems and fintech solutions that redefine user experiences, optimize processes, and ensure security at scale. I’m driven by the challenge of solving complex technical problems and creating systems that power financial ecosystems.
 
-<!-- About section: END -->
+---
 
+### Let's Connect  
+- [LinkedIn](https://www.linkedin.com/in/olowookere-timilehin-9046aa171/)  
+- [Twitter](https://twitter.com/timi0lowookere)  
 
-<!-- Conecct section -->
+---
 
-<h2>Connect with me </h3>
-    <p>
-        <a href="https://www.linkedin.com/in/olowookere-timilehin-9046aa171/"><img src="https://img.shields.io/badge/-Timi%20Olowookere%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/olowookere-timilehin-9046aa172" alt="LinkedIn Badge"></a>
-         <a href="https://twitter.com/@bigboytimi
-/"><img src="https://img.shields.io/badge/-Timi Olowookere-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Timi Olowookere-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://twitter.com/Dev_180Memes" alt="Youtube Badge"></a>
-   </p>
-<!-- THE END -->
+### GitHub Stats  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=timiolowookere&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>  
 
+---
 
-
-                                                                                                                                                      41,197        67%
-                                                                                                                                                      1,16          Top
+### Closing Note  
+I'm always open to collaborating, sharing ideas, and discussing new projects. Let’s build the future of fintech together!
