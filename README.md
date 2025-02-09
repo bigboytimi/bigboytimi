@@ -6,7 +6,7 @@
 ### About Me  
 I’m a **Software Engineer** with extensive experience in **fintech and banking**, where I’ve built and optimized solutions that enhance business processes, improve system efficiency, and drive seamless digital experiences. My career has taken me through some of the most challenging and rewarding projects in the financial sector, including integrating payment systems, optimizing KYC solutions, and building scalable backend architectures.  
 
-- 🔹 **3+ Years of Experience** in Software Development  
+- 🔹 **4+ Years of Experience** in Software Development  
 - 🔹 **Specialized in Backend Engineering** with a focus on **Java**, **Golang**, and **big data processing**.  
 - 🔹 **Proven Track Record** in building and integrating payment systems, managing asynchronous communication using **Kafka**, and ensuring high availability and performance.  
 - 🔹 **Blockchain Enthusiast**, working on blockchain solutions to redefine secure and transparent financial systems.  
